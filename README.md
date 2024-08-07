@@ -12,7 +12,7 @@
 - 🔫 <strong>HTML, CSS and JavaScript</strong>
 
 
-<h1>Languages/tools</h1>
+<h2>Languages/tools</h2>
     <img src="reactjs.png" alt="" width="100px">
     <img src="html.png" alt="" width="100px">
     <img src="css.png" alt="" width="100px">
